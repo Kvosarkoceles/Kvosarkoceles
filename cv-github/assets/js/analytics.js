@@ -155,17 +155,15 @@
     }
   }
 
-  var pendiente = false;
+  var ultimaMedicion = 0;
 
   window.addEventListener(
     'scroll',
     function () {
-      if (pendiente) return;
-      pendiente = true;
-      window.requestAnimationFrame(function () {
-        medirScroll();
-        pendiente = false;
-      });
+      var ahora = Date.now();
+      if (ahora - ultimaMedicion < 200) return;
+      ultimaMedicion = ahora;
+      medirScroll();
     },
     { passive: true }
   );

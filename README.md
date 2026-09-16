@@ -15,14 +15,14 @@
 
 <img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/banner.svg" alt="Miguel Ángel Mendoza Enríquez — Desarrollador Full Stack / Web Developer, Ciudad de México" width="100%" />
 
-<a href="https://kvosarkoceles.github.io/Kvosarkoceles/">
+<a href="https://kvosarkoceles.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=780&height=45&lines=Desarrollador+Full+Stack+%2F+Web+Developer;PHP+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+Python;React+%C2%B7+Angular+%C2%B7+PostgreSQL+%C2%B7+MySQL;GPS+%C2%B7+Telemetr%C3%ADa+%C2%B7+Geolocalizaci%C3%B3n+%C2%B7+MQTT;AWS+%C2%B7+Docker+%C2%B7+APIs+REST" alt="Desarrollador Full Stack / Web Developer · PHP, Laravel, Node.js, Python, React, Angular, PostgreSQL, MySQL, GPS, Telemetría, MQTT, AWS, Docker" />
 </a>
 
 <br />
 
-[![Portafolio web](https://img.shields.io/badge/PORTAFOLIO_WEB-0d7490?style=for-the-badge&logo=githubpages&logoColor=white)](https://kvosarkoceles.github.io/Kvosarkoceles/)
-[![CV en PDF](https://img.shields.io/badge/CV_PDF-2dd4bf?style=for-the-badge&logo=adobeacrobatreader&logoColor=04202a)](https://kvosarkoceles.github.io/Kvosarkoceles/cv/Miguel-Mendoza-CV.pdf)
+[![Portafolio web](https://img.shields.io/badge/PORTAFOLIO_WEB-0d7490?style=for-the-badge&logo=githubpages&logoColor=white)](https://kvosarkoceles.github.io/)
+[![CV en PDF](https://img.shields.io/badge/CV_PDF-2dd4bf?style=for-the-badge&logo=adobeacrobatreader&logoColor=04202a)](https://kvosarkoceles.github.io/cv/Miguel-Mendoza-CV.pdf)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kvosarkoceles)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL-LINKEDIN)
 [![Correo](https://img.shields.io/badge/CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@EJEMPLO.COM)
@@ -213,8 +213,8 @@ de procedimientos y trabajo bajo presión**.
 
 | | |
 | :--- | :--- |
-| **Portafolio y CV web** | https://kvosarkoceles.github.io/Kvosarkoceles/ |
-| **CV en PDF** | https://kvosarkoceles.github.io/Kvosarkoceles/cv/Miguel-Mendoza-CV.pdf |
+| **Portafolio y CV web** | https://kvosarkoceles.github.io/ |
+| **CV en PDF** | https://kvosarkoceles.github.io/cv/Miguel-Mendoza-CV.pdf |
 | **GitHub** | [@Kvosarkoceles](https://github.com/Kvosarkoceles) |
 | **LinkedIn** | [TU-PERFIL-LINKEDIN](https://www.linkedin.com/in/TU-PERFIL-LINKEDIN) |
 | **Correo** | TU-CORREO@EJEMPLO.COM |

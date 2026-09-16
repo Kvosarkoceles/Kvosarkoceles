@@ -95,7 +95,7 @@ del perfil: **GPS, telemetría y monitoreo en tiempo real**.
 Cabecera fija        marca · navegación por secciones · botón de tema · botón "CV PDF"
 Hero                 nombre → rol → resumen → ubicación → CTA (PDF) → enlaces → stack principal
 01 Perfil            relato profesional + tarjeta de datos rápidos
-02 Experiencia       timeline: STI Solutions, Grupo Digital Systems, CIMAC, experiencia previa
+02 Experiencia       timeline: Sitrack México, STI Solutions, Grupo Digital Systems, CIMAC, previa
 03 Proyectos         tarjetas: Farmacia Dulce Esperanza, Sistema de monitoreo GPS
 04 Habilidades       seis categorías: backend, frontend, bases de datos, cloud, integraciones, datos
 05 Educación         UNAM + nota de experiencia previa

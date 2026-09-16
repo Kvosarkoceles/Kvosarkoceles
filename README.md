@@ -47,10 +47,10 @@ MongoDB**, y con servicios de **AWS** como Lambda, SQS, API Gateway, ECS, EKS, E
 Step Functions y EventBridge.
 
 Una parte central de mi experiencia son los **sistemas de rastreo GPS, telemetría y
-geolocalización**: integración de dispositivos, procesamiento de datos, reportes, sistemas de
-alertas y monitoreo en tiempo real. Me desenvuelvo con comodidad en el **mantenimiento y la
-optimización de plataformas en producción**, desarrollando nuevas funcionalidades e integraciones
-sobre código existente.
+geolocalización** orientados a **monitoreo vehicular y logística**: integración de dispositivos,
+procesamiento de datos, reportes, sistemas de alertas y monitoreo en tiempo real. Me desenvuelvo
+con comodidad en el **mantenimiento y la optimización de plataformas en producción**, desarrollando
+nuevas funcionalidades e integraciones sobre código existente.
 
 <img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
@@ -83,6 +83,27 @@ EventBridge, EC2 y CloudWatch.
 <img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
 ## 💼 Experiencia profesional
+
+### Desarrollador Full Stack / Desarrollador de Software · Sitrack México
+
+`Jul 2024 — Jul 2026`
+
+Desarrollo y mantenimiento de **plataformas de monitoreo GPS y telemetría vehicular** para
+logística, monitoreo y seguimiento de unidades. El trabajo se centró en el procesamiento de la
+información enviada por los dispositivos GPS, la integración y el consumo de APIs entre sistemas, y
+el desarrollo de funcionalidades de backend y frontend sobre plataformas en producción.
+
+- **Plataforma, backend y datos:** desarrollo backend y frontend de plataformas de **monitoreo
+  GPS**; integración y consumo de **APIs REST** entre sistemas y servicios; modelado y consultas
+  sobre **bases de datos relacionales**; automatización del procesamiento y la generación de
+  información; evolución y solución de problemas en plataformas en producción; control de
+  versiones con **Git**.
+- **GPS, telemetría y logística:** procesamiento de información proveniente de **dispositivos
+  GPS**; análisis de datos de **telemetría vehicular**; **geolocalización** y seguimiento vehicular
+  de unidades; análisis de eventos de rastreo y de información por unidad; reportes y consultas
+  para **logística y seguimiento de unidades**; integración entre diferentes sistemas y servicios.
+
+`PHP` `JavaScript` `Node.js` `REST API` `SQL` `GPS` `Telemetría` `Geolocalización` `Git`
 
 ### Desarrollador Web Full Stack · STI Solutions
 
@@ -208,7 +229,7 @@ de procedimientos y trabajo bajo presión**.
 <img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
 ## 📫 Contacto
-
+ 
 <div align="center">
 
 | | |

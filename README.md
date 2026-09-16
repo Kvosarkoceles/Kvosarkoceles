@@ -237,7 +237,7 @@ de procedimientos y trabajo bajo presión**.
 | **Portafolio y CV web** | https://kvosarkoceles.github.io/ |
 | **CV en PDF** | https://kvosarkoceles.github.io/cv/Miguel-Mendoza-CV.pdf |
 | **GitHub** | [@Kvosarkoceles](https://github.com/Kvosarkoceles) |
-| **LinkedIn** | [TU-PERFIL-LINKEDIN](https://www.linkedin.com/in/miguel-angel-mendoza-enríquez-604574238) |
+| **LinkedIn** | [https://www.linkedin.com/in/miguel-angel-mendoza-enríquez-604574238](https://www.linkedin.com/in/miguel-angel-mendoza-enríquez-604574238) |
 | **Correo** | sarkoceles@ciencias.unam.mx |
 | **Ubicación** | Ciudad de México, México |
 

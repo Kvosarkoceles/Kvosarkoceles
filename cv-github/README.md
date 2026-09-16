@@ -109,7 +109,11 @@ Pie                  autoría y enlaces
 
 ```
 Kvosarkoceles/
-├── README.md                          # CV de perfil de GitHub (markdown)
+├── README.md                          # CV de perfil de GitHub (markdown, con estilo visual)
+├── assets/                            # Gráficos propios del README de perfil
+│   ├── banner.svg                     # Cabecera 1280x320
+│   ├── divider.svg                    # Separador de secciones (fondo transparente)
+│   └── footer.svg                     # Pie del README
 ├── cv-github/                         # Sitio publicado en GitHub Pages
 │   ├── index.html                     # Documento único, semántico
 │   ├── 404.html
@@ -290,9 +294,28 @@ correspondiente.
 | `Demo` de cada proyecto | `index.html`: `<span class="project-link is-disabled">` | Convertir en `<a href="…">` cuando exista demo |
 | `Estado` de cada proyecto | `index.html`: bloque comentado `<span class="status">` | Descomentar y fijar el valor real |
 | `apple-touch-icon.png` | `cv-github/assets/img/` | Se regenera con `scripts/generate-assets.sh` |
+| URLs `raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/…` | `README.md` (banner, divisor y pie) | Se usan URLs absolutas porque GitHub no siempre resuelve rutas relativas al mostrar el README en el perfil. Si cambias de rama o de usuario, actualiza esas cinco referencias |
 
 El estado de los proyectos se dejó **preparado pero desactivado** de forma deliberada: no se
 inventa el estado de avance de un proyecto.
+
+### Recursos gráficos del README de perfil
+
+El README de perfil usa tres SVG propios (`assets/`) más servicios externos:
+
+| Recurso | Servicio | Nota |
+| :--- | :--- | :--- |
+| Banner, divisor y pie | **propios** (`assets/*.svg`) | Sin dependencias; editables a mano |
+| Texto animado | `readme-typing-svg.demolab.com` | Dominio vigente (el de `herokuapp` quedó obsoleto) |
+| Iconos de tecnologías | `skillicons.dev` | Dos filas: backend/frontend y datos/cloud |
+| Badges | `shields.io` | Solo para stack y contacto |
+| Estadísticas y lenguajes | `github-profile-summary-cards.vercel.app` | Datos reales de la API de GitHub |
+| Racha de contribuciones | `github-readme-streak-stats.herokuapp.com` | Datos reales de la API de GitHub |
+| Visitas al perfil | `komarev.com` | Contador opcional; se puede borrar sin afectar nada |
+
+**Servicios descartados por no estar disponibles:** `github-readme-stats.vercel.app` (devuelve
+503 de forma intermitente), `github-readme-activity-graph.vercel.app` y `github-profile-trophy.vercel.app`
+(402, requieren plan de pago). Si prefieres esas tarjetas, requieren desplegar una instancia propia.
 
 ---
 

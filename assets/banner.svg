@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Miguel Ángel Mendoza Enríquez — Desarrollador Full Stack / Web Developer, Ciudad de México">
+  <title>Miguel Ángel Mendoza Enríquez — Desarrollador Full Stack</title>
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101c30"/>
+      <stop offset="1" stop-color="#070b13"/>
+    </linearGradient>
+    <linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="acentoV" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="1"/>
+    </linearGradient>
+    <radialGradient id="brillo" cx="0.12" cy="0" r="0.95">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="brillo2" cx="0.95" cy="0.05" r="0.7">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="reticula" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0v64" fill="none" stroke="#94b4dc" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <clipPath id="recorte"><rect width="1280" height="320" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#recorte)">
+    <rect width="1280" height="320" fill="url(#fondo)"/>
+    <rect width="1280" height="320" fill="url(#reticula)"/>
+    <rect width="1280" height="320" fill="url(#brillo)"/>
+    <rect width="1280" height="320" fill="url(#brillo2)"/>
+    <rect width="1280" height="6" fill="url(#acento)"/>
+
+    <!-- Monograma -->
+    <rect x="72" y="62" width="88" height="88" rx="22" fill="url(#acento)"/>
+    <text x="116" y="119" text-anchor="middle"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="34" font-weight="700" fill="#04202a" letter-spacing="-1">MM</text>
+
+    <text x="184" y="98"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="15" fill="#2dd4bf" letter-spacing="2.6">DESARROLLADOR FULL STACK</text>
+    <text x="184" y="128"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="15" fill="#6f83a0" letter-spacing="2.6">/ WEB DEVELOPER</text>
+
+    <!-- Nombre -->
+    <text x="72" y="232"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          font-size="54" font-weight="700" fill="#e8eefb" letter-spacing="-1.5">Miguel Ángel Mendoza Enríquez</text>
+
+    <!-- Línea de especialidad -->
+    <text x="74" y="272"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          font-size="19" fill="#9aabc4">Aplicaciones web · APIs · Integración de sistemas ·</text>
+    <text x="560" y="272"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          font-size="19" font-weight="600" fill="#cfe3f5">GPS, telemetría y monitoreo en tiempo real</text>
+
+    <!-- Motivo de señal (telemetría) -->
+    <rect x="1152" y="192" width="20" height="40" rx="6" fill="url(#acentoV)" opacity="0.55"/>
+    <rect x="1190" y="168" width="20" height="64" rx="6" fill="url(#acentoV)" opacity="0.8"/>
+    <rect x="1228" y="140" width="20" height="92" rx="6" fill="url(#acentoV)"/>
+    <path d="M1238 122v-18" stroke="#2dd4bf" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  </g>
+
+  <rect x="1" y="1" width="1278" height="318" rx="17" fill="none" stroke="#94b4dc" stroke-opacity="0.18"/>
+</svg>

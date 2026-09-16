@@ -1,30 +1,39 @@
 <!--
   README de perfil de GitHub · CV de Miguel Ángel Mendoza Enríquez
-  Estructura inspirada en las plantillas de awesome-github-profile-readme-templates,
-  adaptada a un perfil de Desarrollador Full Stack.
+  Estilo inspirado en las plantillas de awesome-github-profile-readme-templates
+  (banner propio, divisor, iconos de stack, tarjetas de estadísticas), adaptado
+  a un perfil de Desarrollador Full Stack.
+
+  Gráficos propios: assets/banner.svg · assets/divider.svg · assets/footer.svg
+  Se referencian por URL absoluta de raw.githubusercontent. Si cambias de rama o
+  de usuario, actualiza esas cinco URLs.
 
   PENDIENTE: reemplaza TU-PERFIL-LINKEDIN y TU-CORREO@EJEMPLO.COM por tus datos reales.
 -->
 
 <div align="center">
 
-# Miguel Ángel Mendoza Enríquez
+<img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/banner.svg" alt="Miguel Ángel Mendoza Enríquez — Desarrollador Full Stack / Web Developer, Ciudad de México" width="100%" />
 
-### Desarrollador Full Stack · Web Developer
+<a href="https://kvosarkoceles.github.io/Kvosarkoceles/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=780&height=45&lines=Desarrollador+Full+Stack+%2F+Web+Developer;PHP+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+Python;React+%C2%B7+Angular+%C2%B7+PostgreSQL+%C2%B7+MySQL;GPS+%C2%B7+Telemetr%C3%ADa+%C2%B7+Geolocalizaci%C3%B3n+%C2%B7+MQTT;AWS+%C2%B7+Docker+%C2%B7+APIs+REST" alt="Desarrollador Full Stack / Web Developer · PHP, Laravel, Node.js, Python, React, Angular, PostgreSQL, MySQL, GPS, Telemetría, MQTT, AWS, Docker" />
+</a>
 
-**PHP · Laravel · CodeIgniter · Node.js · Python · JavaScript · React · Angular · PostgreSQL · MySQL · MongoDB · AWS · Docker**
+<br />
 
-Ciudad de México, México
+[![Portafolio web](https://img.shields.io/badge/PORTAFOLIO_WEB-0d7490?style=for-the-badge&logo=githubpages&logoColor=white)](https://kvosarkoceles.github.io/Kvosarkoceles/)
+[![CV en PDF](https://img.shields.io/badge/CV_PDF-2dd4bf?style=for-the-badge&logo=adobeacrobatreader&logoColor=04202a)](https://kvosarkoceles.github.io/Kvosarkoceles/cv/Miguel-Mendoza-CV.pdf)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kvosarkoceles)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL-LINKEDIN)
+[![Correo](https://img.shields.io/badge/CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@EJEMPLO.COM)
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-0d7490?style=flat-square&logo=githubpages&logoColor=white)](https://kvosarkoceles.github.io/Kvosarkoceles/)
-[![CV en PDF](https://img.shields.io/badge/CV-PDF-2dd4bf?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://kvosarkoceles.github.io/Kvosarkoceles/cv/Miguel-Mendoza-CV.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kvosarkoceles)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TU-CORREO@EJEMPLO.COM)
+[![Ciudad de México](https://img.shields.io/badge/CIUDAD_DE_M%C3%89XICO-M%C3%89XICO-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ciudad+de+Mexico)
+![Rol](https://img.shields.io/badge/ROL-FULL_STACK_DEVELOPER-2dd4bf?style=for-the-badge&logo=codefactor&logoColor=04202a)
+![Idioma](https://img.shields.io/badge/IDIOMA-ESPA%C3%91OL-38bdf8?style=for-the-badge&logo=googletranslate&logoColor=04202a)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
 ## 👤 Perfil profesional
 
@@ -43,9 +52,21 @@ alertas y monitoreo en tiempo real. Me desenvuelvo con comodidad en el **manteni
 optimización de plataformas en producción**, desarrollando nuevas funcionalidades e integraciones
 sobre código existente.
 
----
+<img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🧰 Stack técnico
+
+<div align="center">
+
+**Backend y frontend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,nodejs,python,perl,js,react,angular,html,css,bootstrap,jquery&perline=13" alt="PHP, Laravel, CodeIgniter, Node.js, Python, Perl, JavaScript, React, Angular, HTML5, CSS3, Bootstrap, jQuery" />
+
+**Datos, cloud y sistema**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,linux,aws,bash&perline=8" alt="PostgreSQL, MySQL, MongoDB, Docker, Git, Linux, AWS, Bash" />
+
+</div>
 
 | Área | Tecnologías |
 | :--- | :--- |
@@ -53,17 +74,13 @@ sobre código existente.
 | **Frontend** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)](https://react.dev/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/) ![AJAX](https://img.shields.io/badge/AJAX-2C3E50?style=flat-square) |
 | **Bases de datos** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
 | **Cloud y DevOps** | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)](https://www.kernel.org/) [![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows) [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com/) |
+| **Integraciones** | ![Apigee](https://img.shields.io/badge/Apigee-FF6C37?style=flat-square) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white) |
+| **Datos y sistemas** | ![GPS](https://img.shields.io/badge/GPS-1f6feb?style=flat-square&logo=googlemaps&logoColor=white) ![Telemetría](https://img.shields.io/badge/Telemetr%C3%ADa-2dd4bf?style=flat-square&logo=datadog&logoColor=04202a) ![Geolocalización](https://img.shields.io/badge/Geolocalizaci%C3%B3n-38bdf8?style=flat-square&logo=openstreetmap&logoColor=04202a) ![Servidores](https://img.shields.io/badge/Administraci%C3%B3n_de_servidores-3b4a63?style=flat-square&logo=serverfault&logoColor=white) |
 
 **Servicios de AWS con los que trabajo:** Lambda, SQS, API Gateway, ECS, EKS, Step Functions,
 EventBridge, EC2 y CloudWatch.
 
-**Integraciones y plataformas:** Apigee, Twilio, WhatsApp, Telegram, MQTT, Google Maps y
-OpenStreetMap.
-
-**Datos y sistemas:** GPS, telemetría, geolocalización, administración de servidores (Linux y
-Windows) y entornos VMware.
-
----
+<img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
 ## 💼 Experiencia profesional
 
@@ -113,7 +130,7 @@ Desarrollo de aplicaciones web y herramientas de consulta y análisis de datos e
 - Desarrollo de herramientas para **Violeta Radio**.
 - Uso de **Java** y **Bash**; automatización de procesos relacionados con **streaming y alertas**.
 
----
+<img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Proyectos
 
@@ -154,7 +171,24 @@ Desarrollo de aplicaciones web y herramientas de consulta y análisis de datos e
 
 El código público de mis proyectos está en **[github.com/Kvosarkoceles](https://github.com/Kvosarkoceles)**.
 
----
+<img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
+
+## 📊 GitHub en números
+
+<div align="center">
+
+<img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kvosarkoceles&theme=github_dark" alt="Estadísticas de la cuenta de GitHub de Kvosarkoceles" />
+<img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kvosarkoceles&theme=github_dark" alt="Lenguajes más usados en los repositorios" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvosarkoceles&theme=dark&background=0A0F1A&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF&sideLabels=e8eefb&dates=8fa3bf&currStreakNum=e8eefb&sideNums=e8eefb&stroke=1F2F47&hide_border=true" alt="Racha de contribuciones en GitHub" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kvosarkoceles&theme=github_dark" alt="Resumen de la actividad de Kvosarkoceles en GitHub" />
+
+</div>
+
+<sub>Estas tarjetas se generan en vivo desde la API de GitHub: no son datos escritos a mano.</sub>
+
+<img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🎓 Educación
 
@@ -164,8 +198,6 @@ Estudios en computación y tecnologías de la información · desde 2008
 Formación en el área de computación y tecnologías de la información, base sobre la que desarrollo
 mi trabajo en desarrollo web, integración de sistemas y procesamiento de datos.
 
----
-
 ## 🧭 Experiencia previa
 
 Antes de mi trayectoria en desarrollo trabajé en **administración y coordinación operativa**
@@ -173,15 +205,29 @@ Antes de mi trayectoria en desarrollo trabajé en **administración y coordinaci
 trabajar: **disciplina, organización, responsabilidad, coordinación, trabajo en equipo, seguimiento
 de procedimientos y trabajo bajo presión**.
 
----
+<img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
 ## 📫 Contacto
 
-- **Portafolio y CV web:** https://kvosarkoceles.github.io/Kvosarkoceles/
-- **CV en PDF:** https://kvosarkoceles.github.io/Kvosarkoceles/cv/Miguel-Mendoza-CV.pdf
-- **GitHub:** [@Kvosarkoceles](https://github.com/Kvosarkoceles)
-- **LinkedIn:** [TU-PERFIL-LINKEDIN](https://www.linkedin.com/in/TU-PERFIL-LINKEDIN)
-- **Correo:** TU-CORREO@EJEMPLO.COM
-- **Ubicación:** Ciudad de México, México
+<div align="center">
+
+| | |
+| :--- | :--- |
+| **Portafolio y CV web** | https://kvosarkoceles.github.io/Kvosarkoceles/ |
+| **CV en PDF** | https://kvosarkoceles.github.io/Kvosarkoceles/cv/Miguel-Mendoza-CV.pdf |
+| **GitHub** | [@Kvosarkoceles](https://github.com/Kvosarkoceles) |
+| **LinkedIn** | [TU-PERFIL-LINKEDIN](https://www.linkedin.com/in/TU-PERFIL-LINKEDIN) |
+| **Correo** | TU-CORREO@EJEMPLO.COM |
+| **Ubicación** | Ciudad de México, México |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/footer.svg" width="100%" alt="Gracias por visitar mi perfil — Miguel Ángel Mendoza Enríquez, Ciudad de México, México" />
+
+<div align="center">
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Kvosarkoceles&style=for-the-badge&color=2dd4bf&label=VISITAS+AL+PERFIL)
 
 <sub>Portafolio construido con HTML, CSS y JavaScript nativos · publicado en GitHub Pages</sub>
+
+</div>

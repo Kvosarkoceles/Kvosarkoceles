@@ -7,8 +7,6 @@
   Gráficos propios: assets/banner.svg · assets/divider.svg · assets/footer.svg
   Se referencian por URL absoluta de raw.githubusercontent. Si cambias de rama o
   de usuario, actualiza esas cinco URLs.
-
-  PENDIENTE: reemplaza TU-PERFIL-LINKEDIN y TU-CORREO@EJEMPLO.COM por tus datos reales.
 -->
 
 <div align="center">
@@ -24,8 +22,8 @@
 [![Portafolio web](https://img.shields.io/badge/PORTAFOLIO_WEB-0d7490?style=for-the-badge&logo=githubpages&logoColor=white)](https://kvosarkoceles.github.io/)
 [![CV en PDF](https://img.shields.io/badge/CV_PDF-2dd4bf?style=for-the-badge&logo=adobeacrobatreader&logoColor=04202a)](https://kvosarkoceles.github.io/cv/Miguel-Mendoza-CV.pdf)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kvosarkoceles)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL-LINKEDIN)
-[![Correo](https://img.shields.io/badge/CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@EJEMPLO.COM)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-mendoza-enríquez-604574238)
+[![Correo](https://img.shields.io/badge/CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarkoceles@ciencias.unam.mx)
 
 [![Ciudad de México](https://img.shields.io/badge/CIUDAD_DE_M%C3%89XICO-M%C3%89XICO-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ciudad+de+Mexico)
 ![Rol](https://img.shields.io/badge/ROL-FULL_STACK_DEVELOPER-2dd4bf?style=for-the-badge&logo=codefactor&logoColor=04202a)
@@ -37,20 +35,16 @@
 
 ## 👤 Perfil profesional
 
-Desarrollador **Full Stack / Web Developer** con experiencia en el desarrollo y mantenimiento de
-aplicaciones web, APIs e integración de sistemas. Mi trabajo combina backend, frontend,
-integración de servicios, procesamiento de datos y evolución de plataformas existentes.
+Desarrollador **Full Stack / Web Developer** con casi una década de experiencia construyendo y
+manteniendo aplicaciones web, APIs e integraciones en producción. Trabajo de punta a punta:
+backend, frontend, bases de datos y evolución de plataformas existentes.
 
-He trabajado con **PHP, Laravel, CodeIgniter, Node.js, Python, Perl y APIs REST** en backend, con
-**JavaScript, React y Angular** en frontend, sobre bases de datos **PostgreSQL, MySQL, MariaDB y
-MongoDB**, y con servicios de **AWS** como Lambda, SQS, API Gateway, ECS, EKS, EC2, CloudWatch,
-Step Functions y EventBridge.
+Mi stack principal es **PHP/Laravel, Node.js, Python, React, Angular y PostgreSQL**, con
+**AWS, Docker y Linux**. Parte central de mi experiencia son los **sistemas de rastreo GPS,
+telemetría y geolocalización** y las **plataformas multi-tenant**.
 
-Una parte central de mi experiencia son los **sistemas de rastreo GPS, telemetría y
-geolocalización** orientados a **monitoreo vehicular y logística**: integración de dispositivos,
-procesamiento de datos, reportes, sistemas de alertas y monitoreo en tiempo real. Me desenvuelvo
-con comodidad en el **mantenimiento y la optimización de plataformas en producción**, desarrollando
-nuevas funcionalidades e integraciones sobre código existente.
+Actualmente desarrollo **ClinovaMex**, una plataforma multi-tenant para farmacias y consultorios,
+e incorporo **agentes de IA con modelos locales (Ollama) y DeepSeek** en mi flujo de trabajo.
 
 <img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
@@ -71,18 +65,37 @@ nuevas funcionalidades e integraciones sobre código existente.
 | Área | Tecnologías |
 | :--- | :--- |
 | **Backend** | [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/) [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/) [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com/) [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)](https://www.perl.org/) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square) |
-| **Frontend** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)](https://react.dev/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/) ![AJAX](https://img.shields.io/badge/AJAX-2C3E50?style=flat-square) |
+| **Frontend** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)](https://react.dev/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/) ![AJAX](https://img.shields.io/badge/AJAX-2C3E50?style=flat-square) |
 | **Bases de datos** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
-| **Cloud y DevOps** | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)](https://www.kernel.org/) [![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows) [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com/) |
+| **Cloud y DevOps** | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)](https://www.kernel.org/) [![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows) [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com/) |
 | **Integraciones** | ![Apigee](https://img.shields.io/badge/Apigee-FF6C37?style=flat-square) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white) |
 | **Datos y sistemas** | ![GPS](https://img.shields.io/badge/GPS-1f6feb?style=flat-square&logo=googlemaps&logoColor=white) ![Telemetría](https://img.shields.io/badge/Telemetr%C3%ADa-2dd4bf?style=flat-square&logo=datadog&logoColor=04202a) ![Geolocalización](https://img.shields.io/badge/Geolocalizaci%C3%B3n-38bdf8?style=flat-square&logo=openstreetmap&logoColor=04202a) ![Servidores](https://img.shields.io/badge/Administraci%C3%B3n_de_servidores-3b4a63?style=flat-square&logo=serverfault&logoColor=white) |
 
 **Servicios de AWS con los que trabajo:** Lambda, SQS, API Gateway, ECS, EKS, Step Functions,
 EventBridge, EC2 y CloudWatch.
 
+**IA y automatización:** opencode, Ollama, Qwen2.5, Qwen2.5-VL, Ornith, DeepSeek, Playwright MCP
+y agentes de IA.
+
 <img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
 ## 💼 Experiencia profesional
+
+### Desarrollador Full Stack · ClinovaMex
+
+`Jun 2026 — Actualidad` · `Proyecto propio`
+
+Plataforma multi-tenant para la operación de farmacias y consultorios: inventario, ventas,
+pacientes, citas, recetas, pólizas y reportes.
+
+- **Producto y arquitectura:** modelo multi-tenant con aislamiento por farmacia y sucursal;
+  5 roles y 42 permisos administrables desde el panel; 60 migraciones versionadas.
+- **Backend y frontend:** API REST con **Node.js**, **Express** y **PostgreSQL**; JWT y auditoría;
+  **React**, **Vite** y **Tailwind CSS**; panel de plataforma en **React** y **TypeScript**.
+- **Infraestructura e IA:** entornos local, test y producción con **Docker Compose**; automatización
+  con **Python** y **Bash**; agentes de IA con **Ollama** (Qwen2.5, Ornith, Qwen2.5-VL) y **DeepSeek**.
+
+`React` `TypeScript` `Node.js` `Express` `Python` `PostgreSQL` `Supabase` `Docker` `Bash` `Ollama` `DeepSeek`
 
 ### Desarrollador Full Stack / Desarrollador de Software · Sitrack México
 
@@ -170,14 +183,14 @@ Desarrollo de aplicaciones web y herramientas de consulta y análisis de datos e
     <th align="left">Enlaces</th>
   </tr>
   <tr>
-    <td><strong>Farmacia Dulce Esperanza</strong><br /><sub>Sistema Full Stack</sub></td>
+    <td><strong>ClinovaMex</strong><br /><sub>Plataforma multi-tenant</sub></td>
     <td>
-      Sistema para la administración de una farmacia y su consultorio: pacientes, clientes,
-      médicos, citas, consultas, servicios, productos, recetas, inventario, autenticación y
-      configuración de farmacia. API REST documentada con Swagger y base de datos relacional.
+      Plataforma para la operación de farmacias y consultorios: inventario, ventas, pacientes,
+      citas, recetas, pólizas y reportes. Tres aplicaciones, 60 migraciones, 5 roles y 42 permisos.
+      El código y el entorno son privados.
     </td>
-    <td><code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Supabase</code> <code>JavaScript</code> <code>REST API</code> <code>Swagger</code></td>
-    <td><a href="https://github.com/Kvosarkoceles">Repositorio</a></td>
+    <td><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Python</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Docker</code> <code>Bash</code></td>
+    <td><a href="https://kvosarkoceles.github.io/proyectos/clinovamex.html">Caso de estudio</a></td>
   </tr>
   <tr>
     <td><strong>Sistema de monitoreo GPS</strong><br /><sub>Monitoreo en tiempo real</sub></td>
@@ -214,15 +227,14 @@ El código público de mis proyectos está en **[github.com/Kvosarkoceles](https
 ## 🎓 Educación
 
 **Universidad Nacional Autónoma de México (UNAM)**
-Estudios en computación y tecnologías de la información · desde 2008
+Estudios de licenciatura en computación y tecnologías de la información · carrera sin concluir
 
-Formación en el área de computación y tecnologías de la información, base sobre la que desarrollo
-mi trabajo en desarrollo web, integración de sistemas y procesamiento de datos.
+Formación en computación y tecnologías de la información, complementada con experiencia
+profesional en desarrollo web, integración de sistemas y procesamiento de datos.
 
 ## 🧭 Experiencia previa
 
-Antes de mi trayectoria en desarrollo trabajé en **administración y coordinación operativa**
-(2004–2020). De esa etapa aporto al trabajo técnico hábitos que siguen siendo parte de mi forma de
+Antes de mi trayectoria en desarrollo trabajé en **administración y coordinación operativa**. De esa etapa aporto al trabajo técnico hábitos que siguen siendo parte de mi forma de
 trabajar: **disciplina, organización, responsabilidad, coordinación, trabajo en equipo, seguimiento
 de procedimientos y trabajo bajo presión**.
 

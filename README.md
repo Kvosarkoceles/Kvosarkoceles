@@ -27,7 +27,8 @@
 
 [![Ciudad de México](https://img.shields.io/badge/CIUDAD_DE_M%C3%89XICO-M%C3%89XICO-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ciudad+de+Mexico)
 ![Rol](https://img.shields.io/badge/ROL-FULL_STACK_DEVELOPER-2dd4bf?style=for-the-badge&logo=codefactor&logoColor=04202a)
-![Idioma](https://img.shields.io/badge/IDIOMA-ESPA%C3%91OL-38bdf8?style=for-the-badge&logo=googletranslate&logoColor=04202a)
+![Idiomas](https://img.shields.io/badge/IDIOMAS-ESPA%C3%91OL_%C2%B7_INGL%C3%89S_T%C3%89CNICO-38bdf8?style=for-the-badge&logo=googletranslate&logoColor=04202a)
+![Modalidad](https://img.shields.io/badge/MODALIDAD-REMOTO_%C2%B7_H%C3%8DBRIDO_%C2%B7_PRESENCIAL-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -45,6 +46,9 @@ telemetría y geolocalización** y las **plataformas multi-tenant**.
 
 Actualmente desarrollo **ClinovaMex**, una plataforma multi-tenant para farmacias y consultorios,
 e incorporo **agentes de IA con modelos locales (Ollama) y DeepSeek** en mi flujo de trabajo.
+
+Disponible para trabajo **remoto, híbrido o presencial** en Ciudad de México. Inglés de lectura
+técnica.
 
 <img src="https://raw.githubusercontent.com/Kvosarkoceles/Kvosarkoceles/main/assets/divider.svg" width="100%" alt="" />
 
